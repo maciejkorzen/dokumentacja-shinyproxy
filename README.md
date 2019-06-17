@@ -1,2 +1,3 @@
-# dokumentacja-shinyproxy
-Dokumentacja do ShinyProxy
+# ShinyProxy
+
+Dokumentacja do ShinyProxy.
